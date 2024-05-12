@@ -34,11 +34,3 @@
 - **Step** : 강의 내용에 따라 폴더를 구분해가며 저장해두었습니다.
 
 - **OwnDevelop** : 강의 이후 개인적으로 디버깅 및 개발을 한 폴더입니다.
-
-## Notes
-
-#### [수강노트](https://brash-wave-2cb.notion.site/Slack-clone-coding-with-ZeroCho-d205cc61945845e48eab3c5cbc0499e4)
-
-수강 노트를 정리한 공간입니다!
-
----
